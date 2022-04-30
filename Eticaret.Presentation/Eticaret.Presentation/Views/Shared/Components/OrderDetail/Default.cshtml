@@ -1,0 +1,32 @@
+﻿@model BasketModel 
+ <table class="shop_table">
+                                    <thead>
+                                        <tr>
+                                            <th class="product-name">Product</th>
+                                            <th class="product-total">Total</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+        @foreach (var item in Model.BasketProducts)
+        {
+                                                 <tr class="cart_item">
+                                                    <td class="product-name">
+                                                        @item.Product.Name <strong class="product-quantity">× @item.Quantity</strong>
+                                                    </td>
+                                                    <td class="product-total">
+                                                        <span class="amount">@Html.Raw(item.Product.Price * item.Quantity)</span>
+                                                    </td>
+                                                </tr>
+        }
+
+                                    </tbody>
+                                    <tfoot>
+
+                                        <tr class="cart-subtotal">
+                                            <th>Cart Subtotal</th>
+                                            <td>
+                                                <span class="amount">@Html.Raw(Model.BasketProducts.Sum(x => x.Product.Price * x.Quantity).ToString("C"))</span>
+                                            </td>
+                                        </tr>
+                                    </tfoot>
+                                </table>

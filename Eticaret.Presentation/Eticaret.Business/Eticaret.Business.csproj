@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ETicaret.Core\Eticaret.Core.csproj" />
+    <ProjectReference Include="..\Eticaret.DataAccess\Eticaret.DataAccess.csproj" />
+    <ProjectReference Include="..\Eticaret.Entites\Eticaret.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,75 @@
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Entites\bin\Debug\net5.0\Eticaret.Entities.deps.json
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Entites\bin\Debug\net5.0\Eticaret.Entities.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Entites\bin\Debug\net5.0\ref\Eticaret.Entities.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Entites\bin\Debug\net5.0\Eticaret.Entities.pdb
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Entites\bin\Debug\net5.0\Eticaret.Core.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Entites\bin\Debug\net5.0\Eticaret.Core.pdb
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.csproj.AssemblyReference.cache
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.AssemblyInfoInputs.cache
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.AssemblyInfo.cs
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.csproj.CopyComplete
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\ref\Eticaret.Entities.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.pdb
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Entites\bin\Debug\net5.0\Eticaret.Entities.deps.json
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Entites\bin\Debug\net5.0\Eticaret.Entities.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Entites\bin\Debug\net5.0\Eticaret.Entities.pdb
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Entites\bin\Debug\net5.0\Eticaret.Core.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Entites\bin\Debug\net5.0\Eticaret.Core.pdb
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.csproj.AssemblyReference.cache
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.AssemblyInfoInputs.cache
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.AssemblyInfo.cs
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.csproj.CoreCompileInputs.cache
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.csproj.CopyComplete
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\refint\Eticaret.Entities.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.pdb
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\ref\Eticaret.Entities.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Entites\bin\Debug\net5.0\Eticaret.Entities.deps.json
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Entites\bin\Debug\net5.0\Eticaret.Entities.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Entites\bin\Debug\net5.0\Eticaret.Entities.pdb
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Entites\bin\Debug\net5.0\Eticaret.Core.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Entites\bin\Debug\net5.0\Eticaret.Core.pdb
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.csproj.AssemblyReference.cache
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.AssemblyInfoInputs.cache
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.AssemblyInfo.cs
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.csproj.CoreCompileInputs.cache
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.csproj.CopyComplete
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\refint\Eticaret.Entities.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.pdb
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\ref\Eticaret.Entities.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Entites\bin\Debug\net5.0\Eticaret.Entities.deps.json
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Entites\bin\Debug\net5.0\Eticaret.Entities.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Entites\bin\Debug\net5.0\Eticaret.Entities.pdb
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Entites\bin\Debug\net5.0\Eticaret.Core.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Entites\bin\Debug\net5.0\Eticaret.Core.pdb
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.csproj.AssemblyReference.cache
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.AssemblyInfoInputs.cache
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.AssemblyInfo.cs
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.csproj.CoreCompileInputs.cache
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.csproj.CopyComplete
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\refint\Eticaret.Entities.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.pdb
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\ref\Eticaret.Entities.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Entites\bin\Debug\net5.0\Eticaret.Entities.deps.json
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Entites\bin\Debug\net5.0\Eticaret.Entities.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Entites\bin\Debug\net5.0\ref\Eticaret.Entities.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Entites\bin\Debug\net5.0\Eticaret.Entities.pdb
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Entites\bin\Debug\net5.0\Eticaret.Core.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Entites\bin\Debug\net5.0\Eticaret.Core.pdb
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.csproj.AssemblyReference.cache
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.AssemblyInfoInputs.cache
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.AssemblyInfo.cs
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.csproj.CoreCompileInputs.cache
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.csproj.CopyComplete
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\ref\Eticaret.Entities.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Entites\obj\Debug\net5.0\Eticaret.Entities.pdb

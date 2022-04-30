@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "56ab1cc0-1e33-49b0-96b6-a7ec2838b511": {
+      "ProjectGuid": "56ab1cc0-1e33-49b0-96b6-a7ec2838b511",
+      "DisplayName": "Eticaret.Presentation",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "b137fe53-69f2-4d8d-beba-d6dc588afda7": {
+      "ProjectGuid": "b137fe53-69f2-4d8d-beba-d6dc588afda7",
+      "DisplayName": "Eticaret.Entities",
+      "ColorIndex": 1
+    },
+    "ebdcc9ca-778b-4d20-a5b7-e4b79dba4dd7": {
+      "ProjectGuid": "ebdcc9ca-778b-4d20-a5b7-e4b79dba4dd7",
+      "DisplayName": "Eticaret.Business",
+      "ColorIndex": 2
+    },
+    "0760bba5-0de9-4d44-bdc0-3f1312e4949d": {
+      "ProjectGuid": "0760bba5-0de9-4d44-bdc0-3f1312e4949d",
+      "DisplayName": "Eticaret.DataAccess",
+      "ColorIndex": 3
+    },
+    "01b0e334-2689-44b2-a331-7d11b5d8c135": {
+      "ProjectGuid": "01b0e334-2689-44b2-a331-7d11b5d8c135",
+      "DisplayName": "Eticaret.Core",
+      "ColorIndex": 4
+    },
+    "75df51a1-d39d-4fa2-a02f-b79cdf7638ee": {
+      "ProjectGuid": "75df51a1-d39d-4fa2-a02f-b79cdf7638ee",
+      "DisplayName": "Nots",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

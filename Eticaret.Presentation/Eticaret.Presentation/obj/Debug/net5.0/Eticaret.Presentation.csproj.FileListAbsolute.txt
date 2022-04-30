@@ -1,0 +1,474 @@
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\appsettings.json
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.exe
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.deps.json
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.runtimeconfig.json
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.runtimeconfig.dev.json
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\ref\Eticaret.Presentation.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.pdb
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.Views.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.Views.pdb
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.csproj.AssemblyReference.cache
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.AssemblyInfoInputs.cache
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.AssemblyInfo.cs
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.RazorAssemblyInfo.cache
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.RazorAssemblyInfo.cs
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\scopedcss\bundle\Eticaret.Presentation.styles.css
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\staticwebassets\Eticaret.Presentation.StaticWebAssets.Manifest.cache
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.TagHelpers.input.cache
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.TagHelpers.output.cache
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.RazorCoreGenerate.cache
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.RazorTargetAssemblyInfo.cache
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.RazorTargetAssemblyInfo.cs
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.Views.pdb
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\ref\Eticaret.Presentation.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.pdb
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.genruntimeconfig.cache
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.csproj.CopyComplete
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Components\HeaderArea\Default.cshtml.g.cs
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Components\MainMenuArea\Default.cshtml.g.cs
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Components\SiteBrandingArea\Default.cshtml.g.cs
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_LoginLayout.cshtml.g.cs
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\libman.json
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Business.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Core.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.DataAccess.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Entities.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Business.pdb
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Core.pdb
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.DataAccess.pdb
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Entities.pdb
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Components\SliderArea\Default.cshtml.g.cs
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Components\MainContentArea\Default.cshtml.g.cs
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Components\ProductWidgetArea\Default.cshtml.g.cs
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Basket\Index.cshtml.g.cs
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_BasketLayout.cshtml.g.cs
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Checkout\Index.cshtml.g.cs
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\appsettings.Development.json
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\appsettings.json
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\libman.json
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.exe
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.deps.json
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.runtimeconfig.json
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.runtimeconfig.dev.json
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.pdb
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.Views.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.Views.pdb
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Business.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Core.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.DataAccess.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Entities.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Business.pdb
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Core.pdb
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.DataAccess.pdb
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Entities.pdb
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.csproj.AssemblyReference.cache
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.AssemblyInfoInputs.cache
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.AssemblyInfo.cs
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.csproj.CoreCompileInputs.cache
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.MvcApplicationPartsAssemblyInfo.cache
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.RazorAssemblyInfo.cache
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.RazorAssemblyInfo.cs
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\scopedcss\bundle\Eticaret.Presentation.styles.css
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\staticwebassets\Eticaret.Presentation.StaticWebAssets.Manifest.cache
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.TagHelpers.input.cache
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.TagHelpers.output.cache
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.RazorCoreGenerate.cache
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Basket\Index.cshtml.g.cs
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Checkout\Index.cshtml.g.cs
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Components\HeaderArea\Default.cshtml.g.cs
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Components\MainContentArea\Default.cshtml.g.cs
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Components\MainMenuArea\Default.cshtml.g.cs
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Components\ProductWidgetArea\Default.cshtml.g.cs
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Components\SiteBrandingArea\Default.cshtml.g.cs
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Components\SliderArea\Default.cshtml.g.cs
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_BasketLayout.cshtml.g.cs
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_LoginLayout.cshtml.g.cs
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.RazorTargetAssemblyInfo.cache
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.RazorTargetAssemblyInfo.cs
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.Views.pdb
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.csproj.CopyComplete
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\refint\Eticaret.Presentation.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.pdb
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.genruntimeconfig.cache
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\ref\Eticaret.Presentation.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Components\OrderDetail\Default.cshtml.g.cs
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shop\Index.cshtml.g.cs
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\appsettings.json
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\libman.json
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.exe
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.deps.json
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.runtimeconfig.json
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.runtimeconfig.dev.json
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.pdb
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.Views.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.Views.pdb
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Business.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Core.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.DataAccess.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Entities.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Business.pdb
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Core.pdb
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.DataAccess.pdb
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Entities.pdb
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.csproj.AssemblyReference.cache
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.AssemblyInfoInputs.cache
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.AssemblyInfo.cs
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.RazorAssemblyInfo.cache
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.RazorAssemblyInfo.cs
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\scopedcss\bundle\Eticaret.Presentation.styles.css
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\staticwebassets\Eticaret.Presentation.StaticWebAssets.Manifest.cache
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.TagHelpers.input.cache
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.TagHelpers.output.cache
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.RazorCoreGenerate.cache
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Basket\Index.cshtml.g.cs
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Checkout\Index.cshtml.g.cs
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Components\HeaderArea\Default.cshtml.g.cs
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Components\MainContentArea\Default.cshtml.g.cs
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Components\MainMenuArea\Default.cshtml.g.cs
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Components\OrderDetail\Default.cshtml.g.cs
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Components\ProductWidgetArea\Default.cshtml.g.cs
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Components\SiteBrandingArea\Default.cshtml.g.cs
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Components\SliderArea\Default.cshtml.g.cs
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_BasketLayout.cshtml.g.cs
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_LoginLayout.cshtml.g.cs
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shop\Index.cshtml.g.cs
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.RazorTargetAssemblyInfo.cache
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.RazorTargetAssemblyInfo.cs
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.Views.pdb
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.csproj.CopyComplete
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\refint\Eticaret.Presentation.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.pdb
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.genruntimeconfig.cache
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\ref\Eticaret.Presentation.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Components\MainSidebar\Default.cshtml.g.cs
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\appsettings.Development.json
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\appsettings.json
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\libman.json
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.exe
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.deps.json
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.runtimeconfig.json
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.runtimeconfig.dev.json
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.pdb
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.Views.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.Views.pdb
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Business.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Core.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.DataAccess.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Entities.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Business.pdb
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Core.pdb
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.DataAccess.pdb
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Entities.pdb
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.csproj.AssemblyReference.cache
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.AssemblyInfoInputs.cache
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.AssemblyInfo.cs
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.csproj.CoreCompileInputs.cache
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.MvcApplicationPartsAssemblyInfo.cache
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.RazorAssemblyInfo.cache
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.RazorAssemblyInfo.cs
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\scopedcss\bundle\Eticaret.Presentation.styles.css
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\staticwebassets\Eticaret.Presentation.StaticWebAssets.Manifest.cache
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.TagHelpers.input.cache
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.TagHelpers.output.cache
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.RazorCoreGenerate.cache
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Components\MainSidebar\Default.cshtml.g.cs
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Areas\Admin\Views\User\Index.cshtml.g.cs
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Basket\Index.cshtml.g.cs
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Checkout\Index.cshtml.g.cs
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Components\HeaderArea\Default.cshtml.g.cs
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Components\MainContentArea\Default.cshtml.g.cs
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Components\MainMenuArea\Default.cshtml.g.cs
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Components\OrderDetail\Default.cshtml.g.cs
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Components\ProductWidgetArea\Default.cshtml.g.cs
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Components\SiteBrandingArea\Default.cshtml.g.cs
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Components\SliderArea\Default.cshtml.g.cs
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_BasketLayout.cshtml.g.cs
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_LoginLayout.cshtml.g.cs
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shop\Index.cshtml.g.cs
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.RazorTargetAssemblyInfo.cache
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.RazorTargetAssemblyInfo.cs
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.Views.pdb
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.csproj.CopyComplete
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\refint\Eticaret.Presentation.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.pdb
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.genruntimeconfig.cache
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\ref\Eticaret.Presentation.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Areas\Admin\Views\User\Add.cshtml.g.cs
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Areas\Admin\Views\User\Edit.cshtml.g.cs
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\appsettings.json
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\libman.json
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.exe
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.deps.json
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.runtimeconfig.json
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.runtimeconfig.dev.json
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\ref\Eticaret.Presentation.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.pdb
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.Views.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Presentation.Views.pdb
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Business.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Core.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.DataAccess.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Entities.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Business.pdb
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Core.pdb
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.DataAccess.pdb
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\bin\Debug\net5.0\Eticaret.Entities.pdb
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.csproj.AssemblyReference.cache
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.AssemblyInfoInputs.cache
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.AssemblyInfo.cs
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.RazorAssemblyInfo.cache
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.RazorAssemblyInfo.cs
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\staticwebassets\Eticaret.Presentation.StaticWebAssets.Manifest.cache
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\staticwebassets\Eticaret.Presentation.StaticWebAssets.xml
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\scopedcss\bundle\Eticaret.Presentation.styles.css
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.TagHelpers.input.cache
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.TagHelpers.output.cache
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.RazorCoreGenerate.cache
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Components\MainSidebar\Default.cshtml.g.cs
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Areas\Admin\Views\User\Add.cshtml.g.cs
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Areas\Admin\Views\User\Edit.cshtml.g.cs
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Areas\Admin\Views\User\Index.cshtml.g.cs
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Basket\Index.cshtml.g.cs
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Checkout\Index.cshtml.g.cs
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Components\HeaderArea\Default.cshtml.g.cs
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Components\MainContentArea\Default.cshtml.g.cs
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Components\MainMenuArea\Default.cshtml.g.cs
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Components\OrderDetail\Default.cshtml.g.cs
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Components\ProductWidgetArea\Default.cshtml.g.cs
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Components\SiteBrandingArea\Default.cshtml.g.cs
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Components\SliderArea\Default.cshtml.g.cs
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_BasketLayout.cshtml.g.cs
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_LoginLayout.cshtml.g.cs
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\Shop\Index.cshtml.g.cs
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.RazorTargetAssemblyInfo.cache
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.RazorTargetAssemblyInfo.cs
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.Views.pdb
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.csproj.CopyComplete
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\ref\Eticaret.Presentation.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.pdb
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.Presentation\obj\Debug\net5.0\Eticaret.Presentation.genruntimeconfig.cache

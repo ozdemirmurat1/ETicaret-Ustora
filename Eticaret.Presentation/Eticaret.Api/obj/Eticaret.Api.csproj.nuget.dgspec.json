@@ -1,0 +1,363 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\Eticaret.Api\\Eticaret.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\Eticaret.Api\\Eticaret.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\Eticaret.Api\\Eticaret.Api.csproj",
+        "projectName": "Eticaret.Api",
+        "projectPath": "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\Eticaret.Api\\Eticaret.Api.csproj",
+        "packagesPath": "C:\\Users\\90545\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\Eticaret.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\90545\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\Eticaret.Business\\Eticaret.Business.csproj": {
+                "projectPath": "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\Eticaret.Business\\Eticaret.Business.csproj"
+              },
+              "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\Eticaret.DataAccess\\Eticaret.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\Eticaret.DataAccess\\Eticaret.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\Eticaret.Business\\Eticaret.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\Eticaret.Business\\Eticaret.Business.csproj",
+        "projectName": "Eticaret.Business",
+        "projectPath": "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\Eticaret.Business\\Eticaret.Business.csproj",
+        "packagesPath": "C:\\Users\\90545\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\Eticaret.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\90545\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\ETicaret.Core\\Eticaret.Core.csproj": {
+                "projectPath": "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\ETicaret.Core\\Eticaret.Core.csproj"
+              },
+              "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\Eticaret.DataAccess\\Eticaret.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\Eticaret.DataAccess\\Eticaret.DataAccess.csproj"
+              },
+              "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\Eticaret.Entites\\Eticaret.Entities.csproj": {
+                "projectPath": "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\Eticaret.Entites\\Eticaret.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\ETicaret.Core\\Eticaret.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\ETicaret.Core\\Eticaret.Core.csproj",
+        "projectName": "Eticaret.Core",
+        "projectPath": "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\ETicaret.Core\\Eticaret.Core.csproj",
+        "packagesPath": "C:\\Users\\90545\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\ETicaret.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\90545\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\Eticaret.DataAccess\\Eticaret.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\Eticaret.DataAccess\\Eticaret.DataAccess.csproj",
+        "projectName": "Eticaret.DataAccess",
+        "projectPath": "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\Eticaret.DataAccess\\Eticaret.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\90545\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\Eticaret.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\90545\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\ETicaret.Core\\Eticaret.Core.csproj": {
+                "projectPath": "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\ETicaret.Core\\Eticaret.Core.csproj"
+              },
+              "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\Eticaret.Entites\\Eticaret.Entities.csproj": {
+                "projectPath": "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\Eticaret.Entites\\Eticaret.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\Eticaret.Entites\\Eticaret.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\Eticaret.Entites\\Eticaret.Entities.csproj",
+        "projectName": "Eticaret.Entities",
+        "projectPath": "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\Eticaret.Entites\\Eticaret.Entities.csproj",
+        "packagesPath": "C:\\Users\\90545\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\Eticaret.Entites\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\90545\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\ETicaret.Core\\Eticaret.Core.csproj": {
+                "projectPath": "C:\\Users\\90545\\Desktop\\ETicaret-Ders\\Eticaret.Presentation\\ETicaret.Core\\Eticaret.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

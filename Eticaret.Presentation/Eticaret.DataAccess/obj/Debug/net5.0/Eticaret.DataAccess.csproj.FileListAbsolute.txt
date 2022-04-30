@@ -1,0 +1,85 @@
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.DataAccess.deps.json
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.DataAccess.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\ref\Eticaret.DataAccess.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.DataAccess.pdb
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.Core.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.Entities.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.Core.pdb
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.Entities.pdb
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.AssemblyInfo.cs
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.csproj.CopyComplete
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\ref\Eticaret.DataAccess.dll
+C:\Users\ras\Desktop\HSAKSAM\Asp.Net\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.pdb
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.DataAccess.deps.json
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.DataAccess.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.DataAccess.pdb
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.Core.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.Entities.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.Core.pdb
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.Entities.pdb
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.csproj.AssemblyReference.cache
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.AssemblyInfoInputs.cache
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.AssemblyInfo.cs
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.csproj.CoreCompileInputs.cache
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.csproj.CopyComplete
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\refint\Eticaret.DataAccess.dll
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.pdb
+E:\Masaüstü\Eticaret\Eticaret.Presentation (2)\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\ref\Eticaret.DataAccess.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.DataAccess.deps.json
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.DataAccess.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.DataAccess.pdb
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.Core.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.Entities.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.Core.pdb
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.Entities.pdb
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.csproj.AssemblyReference.cache
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.AssemblyInfoInputs.cache
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.AssemblyInfo.cs
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.csproj.CopyComplete
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\refint\Eticaret.DataAccess.dll
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.pdb
+C:\Users\rss\Desktop\Eticaret.Presentation\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\ref\Eticaret.DataAccess.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.DataAccess.deps.json
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.DataAccess.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.DataAccess.pdb
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.Core.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.Entities.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.Core.pdb
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.Entities.pdb
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.csproj.AssemblyReference.cache
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.AssemblyInfoInputs.cache
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.AssemblyInfo.cs
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.csproj.CoreCompileInputs.cache
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.csproj.CopyComplete
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\refint\Eticaret.DataAccess.dll
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.pdb
+E:\Masaüstü\HSSABAH\ccc\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\ref\Eticaret.DataAccess.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.DataAccess.deps.json
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.DataAccess.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\ref\Eticaret.DataAccess.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.DataAccess.pdb
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.Core.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.Entities.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.Core.pdb
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.DataAccess\bin\Debug\net5.0\Eticaret.Entities.pdb
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.csproj.AssemblyReference.cache
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.AssemblyInfoInputs.cache
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.AssemblyInfo.cs
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.csproj.CopyComplete
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\ref\Eticaret.DataAccess.dll
+C:\Users\90545\Desktop\ETicaret-Ders\Eticaret.Presentation\Eticaret.DataAccess\obj\Debug\net5.0\Eticaret.DataAccess.pdb

@@ -1,0 +1,45 @@
+﻿@model ProductWidgetAreaViewModel
+<div class="product-widget-area">
+    <div class="zigzag-bottom"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="single-product-widget">
+                    <h2 class="product-wid-title">Yeni Ürünler</h2>
+                    @foreach (var item in Model.NewProducts)
+                    {
+                        <div class="single-wid-product">
+                            <a href="/urun/@item.SeoName"><img src="/product/@item.Image" alt="" class="product-thumb"></a>
+                            <h2><a href="/urun/@item.SeoName">@item.Name</a></h2>
+
+                            <div class="product-wid-price">
+                                <ins>@item.Price.ToString("C")</ins> <del>@Html.Raw((item.Price - 2).ToString("C"))</del>
+                            </div>
+                        </div>
+                    }
+
+
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="single-product-widget">
+                    <h2 class="product-wid-title">En Çok Görüntülenenler</h2>
+                    @foreach (var item in Model.MostView)
+                    {
+                       <div class="single-wid-product">
+                            <a href="/urun/@item.SeoName"><img src="/product/@item.Image" alt="" class="product-thumb"></a>
+                            <h2><a href="/urun/@item.SeoName">@item.Name</a></h2>
+
+                            <div class="product-wid-price">
+                                <ins>@item.Price.ToString("C")</ins> <del>@Html.Raw((item.Price - 2).ToString("C"))</del>
+                            </div>
+                        </div>
+                    }
+
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div> <!-- End product widget area -->
